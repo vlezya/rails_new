@@ -11,6 +11,7 @@ gem 'font-awesome-rails'
 gem 'devise'
 gem 'kaminari'
 gem 'mini_magick'
+gem 'aws-sdk-s3', '~> 1.87'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.6'
